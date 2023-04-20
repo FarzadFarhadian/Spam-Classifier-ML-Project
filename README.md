@@ -1,6 +1,5 @@
 # Spam-Classifier-ML-Project
 
----
 
 This project is a machine learning-based spam and SMS classifier that aims to accurately distinguish between legitimate and spam messages. The project was developed using Python in a Jupyter Notebook environment and includes the following key stages:
 
