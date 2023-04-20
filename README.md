@@ -1,5 +1,4 @@
 # Spam-Classifier-ML-Project
-Great! It sounds like you have a comprehensive project plan for building a spam and SMS classifier using machine learning. Here's an explanation you can use to share your project on your GitHub:
 
 ---
 
